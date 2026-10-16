@@ -1,4 +1,4 @@
-RIFFRAFF PHONE CONTROLLER — DESIGN STUDY 01
+RIFFRAFF PHONE CONTROLLER — DESIGN STUDY 01 / COPY REVISION 0.2
 15 October 2026
 
 Open index.html or the GitHub Pages review site:
@@ -25,6 +25,14 @@ Original artwork remains authoritative; this does not approve new character desi
 Ziggy remains voice only. Royale retains RiffRaff's shared prompt and three tokens.
 Rokkitt is an open font from Google Fonts; license: assets/Rokkitt-OFL.txt.
 Offcut production typography remains a separate project task.
+
+FLAVOR COPY
+Ziggy's display copy uses delighted authority, petty congratulations, mock concern
+and theatrical judgment. He is enjoying being in charge. The humor targets generic
+confidence, effort and indecision; it does not imply knowledge of a player's answer.
+Keep gameplay instructions, receipts, connection status and accessibility labels clear.
+The tone is original to Ziggy, with no borrowed character identity or quotations.
+This copy pass does not revise the existing recorded voice scripts or audio.
 
 NEW QR ART
 The blue foam / tangerine clay frame was made with the built-in image-generation
